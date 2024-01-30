@@ -1,4 +1,4 @@
 # Cormac Stone | Programming Portfolio
 
 ## Certifications
-+ Computer Programming 1
++ Programming 1 USOE Certification
