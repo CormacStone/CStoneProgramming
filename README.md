@@ -28,4 +28,4 @@ Program that takes user input and generates Random words and their definitions
 
 ![RandomWordGenerator]()
 
-[SourceCide]
+[SourceCode](https://github.com/permanentlymaidenless/Programming1/blob/main/src/wordappdef.py)
