@@ -2,3 +2,10 @@
 
 ## Certifications
 + Programming 1 USOE Certification
+
+## Group Projects
+
+## Individual Projects
+
+### SpaceGame
+OOP graphics game spotliting object for user interaction.
