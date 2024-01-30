@@ -13,3 +13,8 @@ OOP graphics game spotliting object for user interaction.
 ![SpaceGame Gameplay](https://github.com/permanentlymaidenless/Programming1/blob/main/images/sg2.png?raw=true)
 ![SpaceGame GameOver](https://github.com/permanentlymaidenless/Programming1/blob/main/images/sg3.png?raw=true)
 [SourceCode](https://github.com/permanentlymaidenless/Programming1/blob/main/src/SpaceGame.zip)
+
+### Calculator
+OOP based calculator with complicated button functions and keyboard functionality.
+![Calculator]()
+[SourceCode]()
