@@ -43,6 +43,6 @@ OOP based program that takes user input and
 ### Screen Saver
 OOP based program that generates a random assortment of shapes to move around the screen and teleport when it reaches the side
 
-![Screen Saver]()
+![Screen Saver](https://github.com/permanentlymaidenless/Programming1/blob/main/images/screensaver.png?raw=true)
 
 [SourceCode](https://github.com/permanentlymaidenless/Programming1/blob/main/src/Screen_Saver.zip)
