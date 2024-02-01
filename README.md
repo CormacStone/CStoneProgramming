@@ -33,5 +33,5 @@ Program that takes user input and generates Random words and their definitions
 ### Etch-A-Sketch
 OOP based program that takes user input and 
 
-![Etch-A-Sketch]()
-[SourceCode]
+![Etch-A-Sketch](https://github.com/permanentlymaidenless/Programming1/blob/main/images/etch.png?raw=true)
+[SourceCode]()
