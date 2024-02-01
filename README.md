@@ -1,5 +1,8 @@
 # Cormac Stone | Programming Portfolio
 
+## Classes Taken
+Skyline High School Computer Programming 1
+
 ## Certifications
 + Programming 1 USOE Certification
 
@@ -35,3 +38,9 @@ OOP based program that takes user input and
 
 ![Etch-A-Sketch](https://github.com/permanentlymaidenless/Programming1/blob/main/images/etch.png?raw=true)
 [SourceCode](https://github.com/permanentlymaidenless/Programming1/blob/main/src/Etch_A_Sketch.zip)
+
+### Screen Saver
+OOP based program that generates a random assortment of shapes to move around the screen and teleport when it reaches the side
+
+![Screen Saver]()
+[SourceCode]()
