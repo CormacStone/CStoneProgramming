@@ -10,6 +10,7 @@ Skyline High School Computer Programming 1
 
 ### Black jack
 We created a Black Jack Game made in python3. We used pygame to render different images and we have user interaction with the different objects on screen.
+
 [https://github.com/Daniel71529/Blackjacks](https://github.com/Daniel71529/Blackjacks)
 
 ## Individual Projects
