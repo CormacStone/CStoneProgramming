@@ -9,7 +9,7 @@ Skyline High School Computer Programming 1
 ## Group Projects
 
 ### Black jack
-[](https://github.com/Daniel71529/Blackjacks)
+[https://github.com/Daniel71529/Blackjacks](https://github.com/Daniel71529/Blackjacks)
 
 ## Individual Projects
 
