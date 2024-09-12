@@ -1,7 +1,8 @@
 # Cormac Stone | Programming Portfolio
 
 ## Classes Taken
-Skyline High School Computer Programming 1
+Skyline High School Computer Programming 1 and 2
+Skyline High School Advance Computer Programming
 
 ## Certifications
 + Programming 1 USOE Certification
