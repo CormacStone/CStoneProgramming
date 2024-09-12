@@ -14,6 +14,10 @@ We created a Black Jack Game made in python3 using pygame to redener images on s
 
 [https://github.com/Daniel71529/Blackjacks](https://github.com/Daniel71529/Blackjacks)
 
+We created a program that lets the user take a math quiz.
+
+[https://github.com/EliSlovik/Group-Project](https://github.com/EliSlovik/Group-Project)
+
 ## Individual Projects
 
 ### SpaceGame
