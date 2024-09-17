@@ -2,6 +2,7 @@
 
 ## Classes Taken
 Skyline High School Computer Programming 1 and 2
+
 Skyline High School Advance Computer Programming
 
 ## Certifications
