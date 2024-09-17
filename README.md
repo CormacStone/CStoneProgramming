@@ -3,7 +3,7 @@
 ## Classes Taken
 Skyline High School Computer Programming 1 and 2
 
-Skyline High School Advance Computer Programming
+Skyline High School Advanced Computer Programming
 
 ## Certifications
 + Programming 1 USOE Certification
