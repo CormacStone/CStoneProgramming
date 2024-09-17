@@ -20,6 +20,10 @@ We created a program that lets the user take a math quiz.
 
 [https://github.com/EliSlovik/Group-Project](https://github.com/EliSlovik/Group-Project)
 
+We created a program that lest the user to read from and write to a file.
+
+
+
 ## Individual Projects
 
 ### SpaceGame
