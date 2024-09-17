@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class MyProgram {
     public static void main(String[] args) {
         Scanner myObj = new Scanner(System.in);
-        System.out.println("Do you want to read or write from a file? \nChoose 1 or 2");
+        System.out.println("Do you want to read or write from a file? \nChoose 1 for reading or 2 for writing");
         String choice = myObj.nextLine();
 
         try {
