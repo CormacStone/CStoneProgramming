@@ -5,7 +5,7 @@ public class Main {
         ______ myAnimal = new _______("", "", , , );
 
         // Call methods
-        myAnimal.startEngine();       // Inherited from Vehicle
+        myAnimal.eatingFood();       // Inherited from Vehicle
         myAnimal.honk();              // Inherited from Car
         myAnimal.chargeBattery();     // Specific to ElectricCar
         myAnimal.Info();          // Overridden to show details from all levels
