@@ -5,9 +5,9 @@ public class Main {
         _____ myAnimal = new _______("", "", , , );
 
         // Call methods
-        myAnimal.eatingFood();       // Inherited from Vehicle
-        myAnimal.honk();              // Inherited from Car
-        myAnimal.chargeBattery();     // Specific to ElectricCar
-        myAnimal.Info();          // Overridden to show details from all levels
+        myAnimal.eatingFood();
+        myAnimal.honk();        
+        myAnimal.chargeBattery();
+        myAnimal.Info();
     }
 }
