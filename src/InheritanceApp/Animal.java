@@ -9,9 +9,9 @@ class Animal {
         this.Name;
         this.Color;
         this.Age;
-    }public String startEngine() {
-        String start = "Starting the engine...";
-	return start;
+    }public String eatingFood() {
+        String food = "eating...;
+	return food;
     }
     public String getName() {
         return Name;
