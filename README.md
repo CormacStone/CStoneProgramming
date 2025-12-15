@@ -8,6 +8,7 @@ Skyline High School Advanced Computer Programming
 ## Certifications
 + Programming 1 USOE Certification
 + Advanced Programming USOE Certification
++ Game Development Fundamentals 1 USOE Certification
 
 ## Group Projects
 
