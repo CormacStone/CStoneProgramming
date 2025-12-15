@@ -5,6 +5,8 @@ Skyline High School Computer Programming 1 and 2
 
 Skyline High School Advanced Computer Programming
 
+Skyline High School Game Development 1
+
 ## Certifications
 + Programming 1 USOE Certification
 + Advanced Programming USOE Certification
